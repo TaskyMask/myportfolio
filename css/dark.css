@@ -51,13 +51,13 @@ section {
 
 .btn {
   padding: 0.7rem 3rem;
-  background: #333;
+  background: var(--yellow);
   color: #111;
   cursor: pointer;
   margin-top: 1rem;
   font-size: 2rem;
   border-radius: 5rem;
-background-color: var(--yellow);
+
 }
 
 .btn i {
@@ -90,7 +90,7 @@ header {
   z-index: 1000;
   height: 100%;
   width: 35rem;
-  background: #1a1a1a;
+  background: #222;
   display: flex;
   align-items: center;
   justify-content: center;
